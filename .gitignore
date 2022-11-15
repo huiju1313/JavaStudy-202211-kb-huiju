@@ -1,4 +1,6 @@
-# Compiled class file
+#IDE
+.idea/*
+# Compiled class file(    #은 주석/  *.class는 .class로 끝나는 파일은 무시하겠다는 뜻   )
 *.class
 
 # Log file
