@@ -22,7 +22,7 @@ public class Method1 {
         System.out.println("매개변수 b : " + b);
         System.out.println("a + b : " + (a + b));
         System.out.println();
-        return a + b;
+        return a + b; // method3은 return이 있어서 변수가 가능하지만 1,2는 안된다
     }
 
 //    public static int method4(int a, int b) {
